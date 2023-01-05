@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ramadan</h1>
 <h3 align="center">Software Engineer and Mobile Developer from Egypt</h3>
 
-- 🔭 I’m currently Studying on **Faculty of Computer & Information Sciences - Kafr El-Sheikh University‎‏**
+- 🔭 I’m currently Studying at **Faculty of Computers and Information  - Kafr El-Sheikh University‎‏**
 
 - 🌱 I’m currently learning **Java | Android**
 
