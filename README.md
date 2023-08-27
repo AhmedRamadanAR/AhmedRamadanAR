@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying at **Faculty of Computers and Information  - Kafr El-Sheikh University‎‏**
 
-- 🌱 I’m currently learning **Java | Android**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **ahmedramadan8050@gmail.com**
 
