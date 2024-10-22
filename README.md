@@ -1,4 +1,3 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Ramadan</h1>
 <h3 align="center">Software Engineer and Mobile App Developer</h3>
 
